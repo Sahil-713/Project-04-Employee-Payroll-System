@@ -1,0 +1,16 @@
+=============================================
+              EMPLOYEE PAYSLIP
+=============================================
+Generated On : 17-11-2026 17:28
+Employee ID  : 501
+Name         : Sahil Singh
+Department   : IT
+Employee Type: Full-time
+---------------------------------------------
+Basic Salary : Rs. 30,000.00
+Allowances   : Rs. 5,000.00
+---------------------------------------------
+Gross Salary : Rs. 35,000.00
+Deductions   : Rs. 2,000.00
+Net Salary   : Rs. 33,000.00
+=============================================

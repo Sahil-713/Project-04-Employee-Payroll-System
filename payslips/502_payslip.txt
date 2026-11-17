@@ -1,0 +1,16 @@
+=============================================
+              EMPLOYEE PAYSLIP
+=============================================
+Generated On : 17-11-2026 17:31
+Employee ID  : 502
+Name         : Rahul Kumar
+Department   : IT
+Employee Type: Contract
+---------------------------------------------
+Hourly Rate  : Rs. 250.00
+Hours Worked : 80.00
+---------------------------------------------
+Gross Salary : Rs. 20,000.00
+Deductions   : Rs. 1,000.00
+Net Salary   : Rs. 19,000.00
+=============================================
